@@ -1,0 +1,20 @@
+{
+  "name": "matthew-cli",
+  "version": "1.0.0",
+  "description": "CLI to automate daily activities.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "matthew long",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "shelljs": "^0.8.3"
+  },
+  "bin": {
+    "greetings": "./app.js"
+  }
+}
