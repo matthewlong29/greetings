@@ -1,7 +1,7 @@
 {
-  "name": "matthew-cli",
+  "name": "greetings-cli",
   "version": "1.0.0",
-  "description": "CLI to automate daily activities.",
+  "description": "CLI to automate daily activities especially related to angular development.",
   "main": "app.js",
   "scripts": {
     "test": "test"
